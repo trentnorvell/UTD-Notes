@@ -7,5 +7,5 @@
 **bold text**
 *italiciced text*
 
-'code'
+`code`
 ---
